@@ -1,7 +1,15 @@
 {
     "credits": [
         {
-            "header": "Programming/Website",
+            "header": "Old owner",
+            "name": "Jvr2022",
+            "youtube": ["https://youtube.com/channel/speedygamerx", "youtube"],
+            "twitter": ["https://twitter.com/jvr2022", "twitter"],
+            "github": ["https://github.com/jvr2022", "github"]
+        },
+
+        {
+            "header": "Old owner",
             "name": "Colon",
             "youtube": ["https://youtube.com/channel/UCFDsxSlQXpLLpVScy2NmbcQ", "youtube"],
             "twitter": ["https://twitter.com/TheRealGDColon", "twitter"],
