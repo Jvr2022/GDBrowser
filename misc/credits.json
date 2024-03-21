@@ -1,7 +1,7 @@
 {
     "credits": [
         {
-            "header": "Old owner",
+            "header": "Owner",
             "name": "Jvr2022",
             "youtube": ["https://youtube.com/channel/speedygamerx", "youtube"],
             "twitter": ["https://twitter.com/jvr2022", "twitter"],
@@ -9,7 +9,7 @@
         },
 
         {
-            "header": "Old owner",
+            "header": "Co-owner",
             "name": "Colon",
             "youtube": ["https://youtube.com/channel/UCFDsxSlQXpLLpVScy2NmbcQ", "youtube"],
             "twitter": ["https://twitter.com/TheRealGDColon", "twitter"],
@@ -17,7 +17,7 @@
         },
 
         {
-            "header": "Reverse Engineering",
+            "header": "Co-Reverse Engineering",
             "name": "Wylie",
             "ign": "TheWylieMaster",
             "youtube": ["https://youtube.com/c/TheWylieMaster", "youtube"],
