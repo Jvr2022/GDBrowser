@@ -1,4 +1,4 @@
-# GDBrowser
+# GDBrowser (wip)
 
 Welcome to GDBrowser, a tool for browsing Geometry Dash servers locally. Below you'll find instructions on how to run it and some insights into its structure.
 
