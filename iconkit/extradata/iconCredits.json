@@ -1,4 +1,5 @@
 [
+    {"name": "Jeyzor", "form": "icon", "id": 78},
     {"name": "Aleck08", "form": "icon", "id": 117},
     {"name": "Aruxd", "form": "icon", "id": 118},
     {"name": "Burke", "form": "icon", "id": 119},
@@ -16,7 +17,10 @@
     {"name": "RobBuck", "form": "icon", "id": 131},
     {"name": "RobBuck", "form": "icon", "id": 132},
     {"name": "SenpaiShika", "form": "icon", "id": 133},
-    {"name": "SenpaiShika", "form": "icon", "id": 134},
+    {"name": "Blitzer", "form": "icon", "id": 249},
+    {"name": "airiLmao", "form": "icon", "id": 250},
+    {"name": "airiLmao", "form": "icon", "id": 251},
+    {"name": "Terron", "form": "icon", "id": 135},
     {"name": "Terron", "form": "icon", "id": 135},
     {"name": "Danke", "form": "icon", "id": 483},
     {"name": "Cygnus", "form": "ball", "id": 30},
